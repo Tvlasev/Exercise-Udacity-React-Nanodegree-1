@@ -1,4 +1,4 @@
-Exercise from Udacity React Nanodegree program. 
+Exercise 1 from Udacity React Nanodegree program - passing props.
 
 To start the project: 
 
